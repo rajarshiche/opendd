@@ -1,5 +1,5 @@
 # opendd
-opeddd: opensource drug discovery project has been designed as a simple software interface where data integration could be availed with the models along with required preprocessing, machine learning training, inference and visualization to predict critical drug properties, identification and screening of candidate drug molecules. 
+opeddd: opensource drug discovery project is being designed as a simple software interface where data integration could be availed with the models along with required preprocessing, machine learning training, inference and visualization to predict critical drug properties, identification and screening of candidate drug molecules. 
 
 Use rdkit==2020.09.3 for seamless execution during dataset synthesis.
 
